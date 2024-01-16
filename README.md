@@ -1,4 +1,4 @@
-# Hailee portfolio webpage
+# Akshay portfolio webpage (Technical Artist)
 
 A portfolio web site completely made in html css and js from ground up.
 
